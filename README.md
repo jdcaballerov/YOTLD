@@ -1,7 +1,4 @@
----
-tags: remote-work, soft-skills, remote, home-office, tools, chat, communication
----
-2020: The Year of the Linux Desktop
+The Year of the Linux Desktop
 From Macbook to Linux
 =======
 
