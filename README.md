@@ -149,6 +149,12 @@ byzanz-record                                        \
 ```
 from: https://github.com/lupoDharkael/flameshot/issues/172#issuecomment-466657937
 
+## Image and video previews
+
+```
+sudo apt install gnome-sushi
+```
+
 
 ## Emoji Keyboard
 
