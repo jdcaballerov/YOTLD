@@ -166,6 +166,16 @@ For a very simple clipboard manager, I use clipit.
 
 `sudo apt install clipit`
 
+Another option is installing a gnome-shell extension
+https://extensions.gnome.org/extension/779/clipboard-indicator/
+and then syncronize clipboards with `autocuutsel` 
+```bash
+sudo apt install autocutsel -y
+autocutsel &
+autocutsel -s PRIMARY &
+
+```
+
 ## Password Manager
 
 [KeepassXC](https://keepassxc.org/download/#linux) can import 1passwd files and many others.
