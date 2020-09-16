@@ -124,6 +124,7 @@ https://github.com/iberianpig/fusuma
 ### Screencast
 
 ```bash
+sudo apt-get install byzanz
 sudo apt-get install appmenu-gtk2-module appmenu-gtk3-module
 
 git clone https://github.com/lolilolicon/xrectsel.git
