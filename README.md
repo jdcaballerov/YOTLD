@@ -169,9 +169,11 @@ For a very simple clipboard manager, I use clipit.
 
 Another option is installing a gnome-shell extension
 https://extensions.gnome.org/extension/779/clipboard-indicator/
-and then syncronize clipboards with `autocuutsel` 
+and then syncronize clipboards with `autocutsel` 
+
 ```bash
 sudo apt install autocutsel -y
+# add to .bashrc
 autocutsel &
 autocutsel -s PRIMARY &
 
