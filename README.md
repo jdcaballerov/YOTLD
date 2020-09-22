@@ -161,6 +161,8 @@ sudo apt install gnome-sushi
 
 The emoji keyboard shortcut can collide with some text editors as vscode—since it is configured as `shift+ctrl+e` - so it needs to be changed. To change it, open `ibus-setup` and remap it so that it won't collide.
 
+A gnome shell extension exists https://extensions.gnome.org/extension/1162/emoji-selector/
+
 ## Clipboard Manager
 
 For a very simple clipboard manager, I use clipit. 
