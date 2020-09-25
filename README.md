@@ -181,6 +181,10 @@ autocutsel -s PRIMARY &
 
 ```
 
+## Fonts
+
+https://aswinmohan.me/posts/better-fonts-on-linux/
+
 ## Password Manager
 
 [KeepassXC](https://keepassxc.org/download/#linux) can import 1passwd files and many others.
