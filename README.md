@@ -202,4 +202,6 @@ As Apple continues to downgrade the quality of its hardware (to match its pricey
 For anyone who wants to contribute more tips and tweaks, you can send your contributions to [this Github repository](https://github.com/jdcaballerov/YOTLD/). 
 
 
+## HackerNews
 
+This post thread HN https://news.ycombinator.com/item?id=25163685
