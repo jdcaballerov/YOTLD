@@ -195,6 +195,15 @@ https://aswinmohan.me/posts/better-fonts-on-linux/
 To annotate and sign PDFs, Apple's preview works amazingly well. On Linux [xournal](https://github.com/xournalpp/xournalpp)
 can accomplish pretty much the same thing.
 
+## Spotify
+
+The scaling is usually tiny.
+You can declare an alias in your `.bashrc` or similar.
+
+If using the flatpack version, Otherwise just run `sportify` with options.
+
+alias spotify="flatpak run com.spotify.Client --force-device-scale-factor=1.5 2>/dev/null"
+
 ---
 
 As Apple continues to downgrade the quality of its hardware (to match its pricey, disposable adaptors), we need to look for other options. These steps will give you a much better user experience—comparable to that of macOS—on a Gnome-based desktop on Linux. 
