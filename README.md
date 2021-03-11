@@ -180,6 +180,8 @@ autocutsel &
 autocutsel -s PRIMARY &
 
 ```
+COPYQ is great https://github.com/hluk/CopyQ
+
 
 ## Fonts
 
